@@ -1,5 +1,7 @@
 # 實作Code
 
+# Python 入門 - 第一堂課
+
 # 1. 基本輸入輸出
 name = input("請輸入你的名字: ")
 print("你好,", name + "!")

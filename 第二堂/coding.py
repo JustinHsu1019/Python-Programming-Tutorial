@@ -2,6 +2,22 @@
 
 # Python 入門 - 第二堂課
 
+# 課前小考
+score = int(input("請輸入您的分數："))
+
+if 90 <= score <= 100:
+    print("優秀")
+elif 80 <= score <= 89:
+    print("良好")
+elif 70 <= score <= 79:
+    print("一般")
+elif 60 <= score <= 69:
+    print("及格")
+elif 0 <= score <= 59:
+    print("不及格")
+else:
+    print("無效的分數")
+
 # 1. 介紹串列
 fruits = ["apple", "banana", "cherry", "date"]
 print("水果串列:", fruits)
