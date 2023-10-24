@@ -1,5 +1,5 @@
 # Python-Programming-Tutorial
-Python Programming Tutor
+## Python Programming Tutor
 
 1. Utilizing custom-designed Python materials, I teach students the fundamentals of Python programming as well as advanced practical applications.
 2. I engage students' interest by introducing fun mini-projects involving data analysis, web scraping, and artificial intelligence.
