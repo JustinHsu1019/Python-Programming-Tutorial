@@ -1,8 +1,6 @@
 import turtle
 import time
 
-# ============================================================
-
 screen = turtle.Screen()
 screen.title("滾動的圓圈")
 

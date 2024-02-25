@@ -10,5 +10,8 @@
 ## Turtle 繞圓圈實作 (15分鐘)
 - 詳情參見 [turtle_圓圈.py](https://github.com/JustinHsu1019/Python-Programming-Tutorial/blob/main/ThirdClass/turtle_%E5%9C%93%E5%9C%88.py)
 
+## Turtle 畫眼鏡練習 (10分鐘)
+- 詳情參見 [turtle_眼鏡.py](https://github.com/JustinHsu1019/Python-Programming-Tutorial/blob/main/ThirdClass/turtle_%E7%9C%BC%E9%8F%A1.py)
+
 ## PyGame 小遊戲實作 (20分鐘)
 - 詳情參見 [pygame_小遊戲.py](https://github.com/JustinHsu1019/Python-Programming-Tutorial/blob/main/ThirdClass/pygame_%E5%B0%8F%E9%81%8A%E6%88%B2.py)
